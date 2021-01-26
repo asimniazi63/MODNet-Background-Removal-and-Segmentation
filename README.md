@@ -3,7 +3,7 @@ https://github.com/ZHKKKe/MODNet
 
 # Pre-trained model
 
-create a director named "pretrained"
+create a directory named "pretrained"
 
 Pre-trained model can be downloaded using following command:
 
