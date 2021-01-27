@@ -22,3 +22,6 @@ Note: Demo Tested with torch==1.1.0 and torchvision==0.3.0
 
 # Demo
 python inference.py --input example.jpg
+
+# Visual Results
+Coming Soon
